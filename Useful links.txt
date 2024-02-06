@@ -1,3 +1,5 @@
 Pre-trained models: https://keras.io/api/applications/
 Resnet tutorial from scratch: https://towardsdatascience.com/hands-on-tensorflow-tutorial-train-resnet-50-from-scratch-using-the-imagenet-dataset-850aa31a39c0
 ArtiFact: Real and Fake Image dataset : https://www.kaggle.com/datasets/awsaf49/artifact-dataset
+umm-maybe AI image detector model: https://huggingface.co/umm-maybe/AI-image-detector
+SDXL Detector: Fine-tuned version of umm-maybe model. : https://huggingface.co/Organika/sdxl-detector
