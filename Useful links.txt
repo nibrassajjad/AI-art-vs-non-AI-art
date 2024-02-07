@@ -1,5 +1,25 @@
 Pre-trained models: https://keras.io/api/applications/
+
 Resnet tutorial from scratch: https://towardsdatascience.com/hands-on-tensorflow-tutorial-train-resnet-50-from-scratch-using-the-imagenet-dataset-850aa31a39c0
+
 ArtiFact: Real and Fake Image dataset : https://www.kaggle.com/datasets/awsaf49/artifact-dataset
+
 umm-maybe AI image detector model: https://huggingface.co/umm-maybe/AI-image-detector
+
 SDXL Detector: Fine-tuned version of umm-maybe model. : https://huggingface.co/Organika/sdxl-detector
+
+CIFAKE: Real and AI-generated synthetic images: https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images/data
+
+Using Resnet50 Pretrained Model in Keras: https://www.kaggle.com/code/meaninglesslives/using-resnet50-pretrained-model-in-keras
+
+HuggingFace: AI art or  Not w/ Resnet https://www.kaggle.com/code/harpdeci/huggingface-ai-art-or-not-w-resnet/notebook
+
+Artgraph dataset: https://coldpress.ai/product_page/1696849675351x732603949864838700
+
+ArtiFact dataset: https://github.com/awsaf49/artifact/tree/main
+
+Using GPU on Jupyter Notebook: https://saturncloud.io/blog/how-to-run-jupyter-notebook-on-gpus/
+
+Grad-CAM tutorial: https://www.codetrade.io/blog/grad-cam-a-complete-guide-with-example/
+
+ImageNet classes: https://deeplearning.cms.waikato.ac.nz/user-guide/class-maps/IMAGENET/
