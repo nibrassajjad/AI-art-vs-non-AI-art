@@ -23,3 +23,5 @@ Using GPU on Jupyter Notebook: https://saturncloud.io/blog/how-to-run-jupyter-no
 Grad-CAM tutorial: https://www.codetrade.io/blog/grad-cam-a-complete-guide-with-example/
 
 ImageNet classes: https://deeplearning.cms.waikato.ac.nz/user-guide/class-maps/IMAGENET/
+
+Guide to data augmentation in computer vision: https://towardsdatascience.com/complete-guide-to-data-augmentation-for-computer-vision-1abe4063ad07
