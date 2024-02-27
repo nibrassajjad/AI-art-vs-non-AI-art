@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/ravidussilva/real-ai-art
+https://www.kaggle.com/code/y5cy5c/cifake-real-and-ai-generated-synthetic-images/notebook

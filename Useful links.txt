@@ -25,3 +25,13 @@ Grad-CAM tutorial: https://www.codetrade.io/blog/grad-cam-a-complete-guide-with-
 ImageNet classes: https://deeplearning.cms.waikato.ac.nz/user-guide/class-maps/IMAGENET/
 
 Guide to data augmentation in computer vision: https://towardsdatascience.com/complete-guide-to-data-augmentation-for-computer-vision-1abe4063ad07
+
+AI-artbench dataset: https://www.kaggle.com/datasets/ravidussilva/real-ai-art/data
+https://www.andrew.cmu.edu/user/peiyuanl/ArtBench.pdf
+
+Detecting AI-Generated Images (CIFAKE) notebook: https://www.kaggle.com/code/y5cy5c/cifake-real-and-ai-generated-synthetic-images/notebook
+
+Organic or Diffused: Can We Distinguish Human Art from AI-generated Images? https://arxiv.org/html/2402.03214v1
+
+
+
