@@ -17,3 +17,5 @@ The file here contains the code for testing the algorithm with user input images
 
 Modify the model location in the first code cell as per the location of best_model.h5 file.
 
+The samples for testing has been taken from ./Datasets/new sample. Adjust the location of images_dir in cell 2 accordingly.
+
