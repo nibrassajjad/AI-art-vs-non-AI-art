@@ -14,5 +14,6 @@
  # Classifier
  
 The file here contains the code for testing the algorithm with user input images.
+
 Modify the model location in the first code cell as per the location of best_model.h5 file.
 
