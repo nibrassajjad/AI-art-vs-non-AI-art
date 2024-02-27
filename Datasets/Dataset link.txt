@@ -1,0 +1,2 @@
+AI-ArtBench: https://www.kaggle.com/datasets/ravidussilva/real-ai-art
+CIFAKE: https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images/data
