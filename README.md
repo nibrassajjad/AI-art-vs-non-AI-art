@@ -1,5 +1,5 @@
 # AI art vs non AI art
-An algorithm to classify AI-generated images from human-created images.
+An algorithm to classify between AI-generated and human-drawn arts.
 
 # Training and deployment code
 Proceed to Models folder for further details regarding code. The original code has been executed on Kaggle notebook:
